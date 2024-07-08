@@ -11,7 +11,7 @@ function col1() {
           <div>logos logos logos</div>
           <div>inputs inputs inputs</div>
           <div>olvidaste la contraseña pelotudo?</div>
-          <div>inciar sesion boton</div>
+          <div>inciar sesion boto</div>
         </Col>
       </Row>
     </Container>
